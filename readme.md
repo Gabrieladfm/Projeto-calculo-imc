@@ -1,0 +1,1 @@
+Esse projeto é um exercício do curso de javaScript e typeScript que eu estou fazendo, resumindo tudo que eu aprendi até agora. O site tem a intenção de calcular o IMC segundo os dados colocados e dar o resultado logo em seguida.
